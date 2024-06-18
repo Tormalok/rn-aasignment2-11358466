@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
   },
   featuredCard: {
     width: 230,
-    height: 150,
+    height: 140,
     borderRadius: 20,
   },
   popularCard: {
